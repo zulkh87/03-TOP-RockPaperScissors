@@ -8,6 +8,7 @@
 }
 
 .selection {
+    background: none;
     font-size: 100px;
     border: none;
     outline: none;
