@@ -2,3 +2,43 @@
     background-color: #ccc;
 }
 
+.selections {
+    display: flex;
+    justify-content: center;
+}
+
+.selection {
+    font-size: 100px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: 170ms;
+}
+
+.selection:hover{
+    transform: scale(1.15);
+}
+
+.results {
+    margin-top: 30px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.result-score {
+    margin-left: .1rem;
+    font-size: 1rem;
+    color: #444;
+}
+
+.result-selection {
+    opacity: .5;
+}
+
+.result-selection.winner{
+    opacity: 1;
+    font-size: 1.5rem;
+}
