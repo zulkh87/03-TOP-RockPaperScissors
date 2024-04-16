@@ -1,7 +1,15 @@
 # 03-TOP-RockPaperScissors
 
 The Odin Project Cirriculum - Rock Paper Scissors Project
-
+...
+!Please note!
+...
+This project is derived from
+https://www.youtube.com/watch?v=1yS-JV4fWqY
+...
+The content creator channel link:
+https://www.youtube.com/@WebDevSimplified
+...
 Github Pages Link:
-
 https://zulkh87.github.io/03-TOP-RockPaperScissors/
+...
